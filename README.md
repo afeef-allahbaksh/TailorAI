@@ -1,4 +1,4 @@
-# AutoApply
+# TailorAI
 
 Apply to dozens of jobs in the time it takes to apply to one, without the slop. AutoApply discovers open roles at companies you care about, scores each one against your resume, tailors the resume per job, fills out the application, and tracks your interview pipeline on a local dashboard.
 
